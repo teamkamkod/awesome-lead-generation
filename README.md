@@ -135,6 +135,8 @@ The goal of this repository is to document the **Modern Growth Stack**, moving a
 
 ![github](https://github.com/adops-tool/awesome-lead-generation/blob/main/image/alg_R.png)[b2b-sdr-agent-template](https://github.com/iPythoning/b2b-sdr-agent-template) - Open-source AI SDR system with a 10-stage sales pipeline running across WhatsApp, Telegram, and email, featuring 13 automated cron jobs, BANT qualification, ChromaDB vector memory, and CRM snapshots via Google Sheets.
 
+![web](https://github.com/adops-tool/awesome-lead-generation/blob/main/image/alg_I.png) [ColdScore](https://score.quick-polish.com) - AI cold email scoring tool that evaluates outreach emails across 5 dimensions (tone, clarity, personalization, value proposition, call-to-action) for $1 per analysis.
+
 ![github](https://github.com/adops-tool/awesome-lead-generation/blob/main/image/alg_R.png)[coldflow](https://github.com/pypesdev/coldflow) - Open-source Next.js cold email platform handling SPF/DKIM/DMARC verification, Google SMTP account integration, CSV contact uploads, and basic sequence delivery with dashboard metrics.
 
 ![github](https://github.com/adops-tool/awesome-lead-generation/blob/main/image/alg_R.png)[harvey](https://github.com/ethanplusai/harvey) - Autonomous Python-based sales agent built on Claude Code that scrapes prospects from LinkedIn and Google, writes AIDA/PAS/BAB email sequences, deploys via the Instantly API, classifies replies, and auto-responds with no human intervention.
